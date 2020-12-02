@@ -1,4 +1,4 @@
-package com.example.madlevel6task2
+package com.example.madlevel6task2.ui
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.example.madlevel6task2.R
 import com.example.madlevel6task2.model.MovieResponse
 import kotlinx.android.synthetic.main.item_movie.view.*
 

@@ -1,14 +1,13 @@
-package com.example.madlevel6task2
+package com.example.madlevel6task2.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import androidx.fragment.app.setFragmentResultListener
-import androidx.navigation.fragment.findNavController
 import com.bumptech.glide.Glide
+import com.example.madlevel6task2.R
 import com.example.madlevel6task2.model.MovieResponse
 import kotlinx.android.synthetic.main.fragment_movie_info.*
 

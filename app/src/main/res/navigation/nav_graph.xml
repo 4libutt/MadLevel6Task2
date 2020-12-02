@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/MovieOverviewFragment"
-        android:name="com.example.madlevel6task2.MovieOverviewFragment"
+        android:name="com.example.madlevel6task2.ui.MovieOverviewFragment"
         android:label="MovieOverviewFragment"
         tools:layout="@layout/fragment_movie_overview">
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/MovieInfoFragment"
-        android:name="com.example.madlevel6task2.MovieInfoFragment"
+        android:name="com.example.madlevel6task2.ui.MovieInfoFragment"
         android:label="MovieInfoFragment"
         tools:layout="@layout/fragment_movie_info">
         <action
