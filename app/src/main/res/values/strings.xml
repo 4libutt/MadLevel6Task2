@@ -9,4 +9,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="input_prompt">The most populair movies of</string>
+    <string name="year_input">Year</string>
+    <string name="submitBtn">Submit</string>
+    <string name="Overview">Overview</string>
+    <string name="failed">Failed to retrieve</string>
 </resources>
